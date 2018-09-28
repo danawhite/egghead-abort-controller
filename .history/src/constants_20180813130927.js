@@ -1,0 +1,1 @@
+export const SWAPI_API_URL_PREFIX = 'http://'
